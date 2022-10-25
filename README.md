@@ -1,7 +1,7 @@
 # Gestion de consultas Programacion Full Stack
 # Repositorio de consultas - Curso Full Stack 
 
-En este repositorio vamos a manejar las consultas del trabajo práctico de Sistemas Operativos. Del mismo modo que usaríamos el Slack o Telegram, vamos a usar [los Issues](https://github.com/FacundoRauber/fullstack2022/issues) de este repositorio.
+En este repositorio vamos a manejar las consultas de los trabajos practicos. Del mismo modo que usaríamos el Slack o Telegram, vamos a usar [los Issues](https://github.com/FacundoRauber/fullstack2022/issues) de este repositorio.
 
 ## Cómo usarlo
 
