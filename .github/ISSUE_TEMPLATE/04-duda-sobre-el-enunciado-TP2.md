@@ -1,6 +1,6 @@
 ---
 name: Tengo una duda sobre el enunciado del TP2
-about: Usá este template si tenés una duda sobre una cita del enunciado del TP1.
+about: Usá este template si tenés una duda sobre una cita del enunciado del TP2.
 title: ''
 labels: 'enunciado :page_facing_up:'
 assignees: ''
