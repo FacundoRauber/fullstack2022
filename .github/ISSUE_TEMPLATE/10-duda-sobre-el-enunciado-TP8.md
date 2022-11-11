@@ -1,6 +1,6 @@
 ---
-name: Tengo una duda sobre el enunciado del TP10
-about: Usá este template si tenés una duda sobre una cita del enunciado del TP10.
+name: Tengo una duda sobre el enunciado del TP8
+about: Usá este template si tenés una duda sobre una cita del enunciado del TP8.
 title: ''
 labels: 'enunciado :page_facing_up:'
 assignees: ''
